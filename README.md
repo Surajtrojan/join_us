@@ -1,3 +1,5 @@
 # join_us
 
-A simple WebApp to collected registered users information(via email) and diplaying back the number of users registered till now.
+A simple WebApp to collect email information and diplaying back the number of users registered till now.
+
+Technologies used: NodeJs, Express, MySQL, HTML, CSS.
